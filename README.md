@@ -1,7 +1,7 @@
 # このアプリについて
 TECH::EXPERTの最終課題である、メルカリのクローンサイトを制作致しました。<br>
-制作に関しての詳細は以下URLよりご覧ください。<br>
-(https://docs.google.com/document/d/1DpzYFYh9mAYNuRSbQs_3d0DJhi__N_BpOTgqA-nECrM/edit "最終課題説明文")
+私のタスクや制作に関しての詳細は以下URLよりご覧ください。<br>
+https://docs.google.com/document/d/1DpzYFYh9mAYNuRSbQs_3d0DJhi__N_BpOTgqA-nECrM/edit
 
 # README
 
